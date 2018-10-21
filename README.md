@@ -1,6 +1,6 @@
 # mufc-api-fe
 
-> A Vue.js project
+> A Vue.js frontend for the NodeJS RESTful API backend
 
 ## Build Setup
 
